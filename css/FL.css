@@ -1,0 +1,35 @@
+#choose .ml .fenlei{
+	width:450px;
+	height:411px;
+	position: absolute;
+	top: 0;
+	left: 222px;
+	z-index: 11;
+	background: white;
+	border: 1px solid #dfdfdf;
+	display: none;
+
+}
+#choose .ml .fenlei p{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+#choose .ml .fenlei ul{
+	text-align: center;
+	margin-left: 10px;
+	padding-bottom: 15px;
+	overflow: hidden;
+	/*width: 421px;*/
+	border-bottom: 1px solid #dfdfdf;
+}
+#choose .ml .fenlei ul li{
+	float: left;
+	
+	
+}
+#choose .ml .fenlei ul li a{
+	color: #999;
+	font-size: 12px;
+	padding:0 11px 0 10px;
+	border-left: 1px solid #dfdfdf;
+}

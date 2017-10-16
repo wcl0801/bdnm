@@ -1,0 +1,84 @@
+#shop{
+	width: 964px;
+	
+}
+#sNav{
+	width: 100%;
+	height: 36px;
+	margin-top: 30px;
+	padding-bottom: 20px;
+	background: url(../img/t10-header_0faaa36.png) no-repeat;
+}
+#sNav div{
+	overflow: hidden;
+}
+#sNav div p{
+	float: left;
+	color: white;
+	font-size: 18px;
+	line-height: 36px;
+	margin-left: 13px;
+}
+#sNav div ul{
+	
+	overflow: hidden;
+	margin-left: 486px;
+}
+#sNav div ul li{
+	float: left;
+	width: 40px;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 36px;
+	text-align: center;
+	
+	color: #eb1967;
+}
+#shopping ul{
+	overflow: hidden;
+	
+	border-bottom: 4px solid #eb1967;
+	
+}
+#shopping ul li{
+	width: 226px;
+	float: left;
+}
+#shopping ul li div a img{
+	border: 1px solid #dfdfdf;
+}
+#shopping ul li div{
+	line-height: 40px;
+	border-bottom: 1px solid #dfdfdf;
+	overflow: hidden;
+	
+}
+#shopping ul li div a{
+	color: black;
+}
+#shopping ul li div a h4{
+	max-width: 186px;
+	font-size: 16px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+#shopping ul li div .l{
+	float: left;
+	font-size: 17px;
+	color: #EB1967;
+}
+#shopping ul li div .r{
+	float: right;
+	color: #aa9eb6;
+	text-decoration: line-through;
+}
+.padd{
+	padding-right: 20px;
+}
+#shopping ul li .pri{
+	border: none;
+}
+#shopping img{
+	width: 100%;
+}

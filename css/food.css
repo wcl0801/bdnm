@@ -1,0 +1,106 @@
+.ood{
+	padding-top: 30px;
+	min-width: 1210px;
+}
+.ood .f_title{
+	overflow: hidden;
+	
+}
+.ood .f_title div{
+	float: left;
+}
+.ood .f_title ul{
+	float: right;
+	overflow: hidden;
+}
+.ood .f_title div img{
+	height: 20px;
+	padding-right: 12px;
+}
+.ood .f_title div b{
+	font-size: 16px;
+}
+.ood .f_title ul li{
+	float: left;
+	padding-left: 18px;
+	padding-right: 19px;
+	line-height: 36px;
+	border-right: 1px solid #dfdfdf;
+}
+.ood .f_title ul li a img{
+	height: 11px;
+}
+.ood .food{
+	float: left;
+}
+.ood .food  img{
+	width: 100%;
+}
+/*1210*/
+.f_padd{
+	margin-left: 10px;
+}
+.food{
+	border: 1px solid transparent;
+}
+.ood .food ul li{
+	width: 224px;
+	margin: 4px;
+	
+}
+.ood .food ul li a div{
+	border: 1px solid #dfdfdf;
+	position: relative;
+}
+.ood .food ul li a div .myy{
+	width: 56px;
+	position: absolute;
+	left: -1px;
+	top: -1px;
+}
+
+.ood .food ul li a p{
+	line-height: 20px;
+	height: 40px;
+}
+.ood .food ul li .pri{
+	line-height: 32px;
+	height: 35px;
+	
+}
+.ood .food ul li .pri .price{
+	color: #ff4883;
+    font-size: 24px;
+    float: left;
+    font-family: arial;
+}
+.ood .food ul li .pri .n_price{
+	float: left;
+    margin-left: 5px;
+    color: #9e9e9e;
+    line-height: 13px;
+    margin-top: 13px;
+}
+.ood .food ul li .pri .n_price span{
+	text-decoration: line-through;
+}
+.ood .food ul li .count{
+	line-height: 23px;
+    color: #9e9e9e;
+    
+}
+.ood .food ul li .count .grade{
+	color: #005aa0;
+}
+.ood .food ul li .count .sold{
+	float: right;
+}
+.fd{
+	overflow: hidden;
+	padding-bottom: 15px;
+	margin-bottom: 25px;
+	border-bottom: 1px solid #DFDFDF;
+}
+.hide{
+	display: none;
+}
